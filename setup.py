@@ -24,9 +24,9 @@ ABOUT = load_about()
 setup(
     name="tutor-mfe",
     version=ABOUT["__version__"],
-    url="https://github.com/overhangio/tutor-mfe",
+    url="https://github.com/BrookHabte1/tutor-mfe",
     project_urls={
-        "Code": "https://github.com/overhangio/tutor-mfe",
+        "Code": "https://github.com/BrookHabte1/tutor-mfe",
         "Issue tracker": "https://github.com/overhangio/tutor-mfe/issues",
         "Community": "https://discuss.openedx.org/tag/tutor",
     },
